@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Task 7 – Identify and Remove Suspicious Browser Extensions</title>
+   –Identify and Remove Suspicious Browser Extensions</title>
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: 0 auto; padding: 20px;">
 
